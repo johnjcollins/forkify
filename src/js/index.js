@@ -1,2 +1,2 @@
 // Global app controller
-console.log('Ready, set, GO!!!!! ');
+console.log('Ready, set, GO!!');
