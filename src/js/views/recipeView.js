@@ -119,7 +119,6 @@ export const renderRecipe = (recipe, isLiked) => {
           <svg class="search__icon">
               <use href="img/icons.svg#icon-triangle-right"></use>
           </svg>
-
       </a>
     </div>
   `;
